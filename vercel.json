@@ -1,4 +1,5 @@
 {
+  "name": "iss-live-tracker-dashboard",
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
   "framework": "vite",
